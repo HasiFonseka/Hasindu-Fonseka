@@ -1,11 +1,11 @@
 # 💻 Hasindu Fonseka - Software Engineering Undergraduate
 
-
-I'm a **passionate and dedicated Software Engineering undergraduate** pursuing a **BEng (Hons) Software Engineering** at the **University of Westminster (2023 - 2027)**. My journey in technology revolves around building impactful solutions using **frontend development, machine learning, and data science.**
+I'm a **Software Engineering undergraduate** at the **University of Westminster (2023 - 2027)**, driven by a passion for solving real-world challenges using cutting-edge technology. My expertise spans **frontend development, machine learning, and software engineering principles**, always aiming for impactful and innovative solutions.
 
 ---
 
-## 🔥 Skills & Technologies
+## 🚀 Skills & Technologies
+
 ### 💡 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -23,44 +23,52 @@ Pandas | Numpy | Matplotlib | Scikit-Learn | PyCaret | Google Colab
 
 ---
 
-## 📌 Featured Projects
+## 🔥 Featured Projects
+
 - **EventMaster - Event Service Marketplace**  
-  A complete platform where customers post events and vendors bid to offer their services. (Tech Stack: Next.js, Nest.js, PostgreSQL)
+  *Tech Stack:* Next.js, Nest.js, PostgreSQL  
+  A comprehensive platform for customers to post events, vendors to submit offers, and seamless communication and payment processing.
 
 - **Real-Time Ticket Booking System**  
-  Built with Spring Boot, React, Java, and MySQL, this system ensures smooth ticket management through the Producer-Consumer pattern.
+  *Tech Stack:* Spring Boot, React, Java, MySQL  
+  Implemented with the Producer-Consumer pattern, this system ensures smooth and efficient ticket management.
 
 - **AI Image Generation Platform**  
-  A web app using DALL-E for text-to-image conversion with backend processing and Cloudinary for image storage. (Tech Stack: React, Node.js)
+  *Tech Stack:* React, Node.js  
+  A web application for generating images from text prompts using DALL-E, with Cloudinary for storage.
 
 - **Greenpulse Website**  
-  An environmental awareness website focusing on responsive design and feature integration. (Tech Stack: HTML, CSS, JavaScript)
+  *Tech Stack:* HTML, CSS, JavaScript  
+  An environmental awareness platform with a responsive and user-friendly design.
 
 - **Air Ticket Booking System**  
-  A Java-based tool featuring booking, cancellation, and seating plan functionalities. (Tech Stack: Java)
+  *Tech Stack:* Java  
+  A command-line application for managing ticket bookings, cancellations, and seating plans using Java OOP principles.
 
-- **Machine Learning for Breast Cancer Survival Prediction**  
-  A predictive model improving accuracy in forecasting survival rates for breast cancer patients. (Tech Stack: Python)
+- **Breast Cancer Survival Prediction Model**  
+  *Tech Stack:* Python, Scikit-Learn, Pandas, Numpy  
+  Built a predictive model to enhance accuracy in forecasting breast cancer survival rates.
 
 ---
 
 ## 🏆 Achievements
-- **IX Designathon:** Designed a sustainable app prototype using Figma.
-- **Hack X Ideathon:** Developed a mental healthcare website with interactive assessments and chatbot support.
-- **IEEE Extreme 8.0:** Demonstrated strong problem-solving skills in a global coding competition.
+- **IX Designathon:** Developed a sustainable app prototype with a user-centric approach.
+- **Hack X Ideathon:** Created an interactive mental health care website featuring assessments and chatbot support.
+- **IEEE Extreme 8.0:** Competed in a global coding competition, showcasing advanced problem-solving skills.
 
 ---
 
 ## 🤝 Volunteer Experience
-- **Volunteer | IEEE of IIT:** Contributed to IEEE initiatives, showcasing teamwork and organizational skills.
+- **IEEE of IIT:** Volunteered in various initiatives, showcasing teamwork and organizational skills.
+
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 - 📧 **Email:** [hasindufonseka2017@gmail.com](mailto:hasindufonseka2017@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/hasindu-fonseka](https://www.linkedin.com/in/hasindu-fonseka/)
 - 🌐 **GitHub:** [github.com/HasiFonseka](https://github.com/HasiFonseka)
 
 ---
 
-🌟 *“Building impactful solutions, one line of code at a time.”*
+🌟 *“Turning ideas into impactful solutions through code.”*
